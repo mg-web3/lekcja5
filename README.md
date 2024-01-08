@@ -4,7 +4,7 @@ Lekcja 5 kursu Programowanie Web3 - Fundamenty Blockchain i Solidity.
 
 Kryptografia w blockchain.
 
-![Kryptografia](../5-cryptography.png)
+![Kryptografia](5-cryptography.png)
 
 ## Instalacja i konfiguracja
 
